@@ -1,5 +1,3 @@
-# Vincent D.
-
 Hi there, I'm Vincent - a security guy from France (baguette saucisse).
 
 Here is few tools:
@@ -13,3 +11,5 @@ Here is few tools:
   - [BExtension](https://github.com/vincd/BExtension): update the CSRF token while navigation a website
 
 Reach me on Twitter [@vincd8](https://twitter.com/vincd8)
+
+[![HitCount](http://hits.dwyl.com/vincd/vincd.svg)](http://hits.dwyl.com/vincd/vincd)
