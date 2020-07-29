@@ -1,12 +1,15 @@
 # Vincent D.
 
-Hi there, I'm Vincent - a security guy from France (baguette saucisse). Feel free to send me a message if you use my tools and want more awesome features.
+Hi there, I'm Vincent - a security guy from France (baguette saucisse).
 
-Here are some ideas to get you started:
+Here is few tools:
 
-- 🔭 I’m currently working on anything
-- 🌱 I’m currently learning anything
-- 👯 I’m looking to collaborate on antyhing
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about anything
-- 📫 How to reach me: [twitter](https://twitter.com/vincd8)
+- [Wappylyzer](https://github.com/vincd/wappylyzer): a Python implementation of the awesome [Wappalyzer](https://www.wappalyzer.com/)
+- [spider_plus](https://github.com/byt3bl33d3r/CrackMapExec/blob/master/cme/modules/spider_plus.py): a CrackMapExec module to crawl Windows Shares
+- [FringeProject](https://fringeproject.com): a kind of OSINT resource tool
+- [Security-Tips](https://security-tips.vincd.com): I can't remember everything so I write commands and links that I found usefull
+- Few [Burp](https://portswigger.net/burp) extensions:
+  - [ProxyPac](https://github.com/vincd/burpproxypacextension): use a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file as an outgoing proxy
+  - [BExtension](https://github.com/vincd/BExtension): update the CSRF token while navigation a website
+
+Reach me on Twitter [@vincd8](https://twitter.com/vincd8)
