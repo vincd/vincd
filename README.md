@@ -11,3 +11,5 @@ Here is few tools:
   - [BExtension](https://github.com/vincd/BExtension): update the CSRF token while navigation a website
 
 Reach me on Twitter [@vincd8](https://twitter.com/vincd8)
+
+<p align="center" width="100%"><a href="https://github.com/vincd"><img src="./github-metrics.svg"></a></p>
