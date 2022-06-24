@@ -1,15 +1,8 @@
-Hi there, I'm Vincent - a security guy from France (baguette saucisse).
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=vincd8&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/vincd8.svg?logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/vincd/"><img src="https://img.shields.io/badge/-Vincent%20D.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/"></a>
+  <a href="https://github.com/sponsors/vincd"><img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=flat&logo=github%20sponsors&logoColor=white"></a>
+</p>
 
-Here is few tools:
-
-- [Wappylyzer](https://github.com/vincd/wappylyzer): a Python implementation of the awesome [Wappalyzer](https://www.wappalyzer.com/)
-- [spider_plus](https://github.com/byt3bl33d3r/CrackMapExec/blob/master/cme/modules/spider_plus.py): a CrackMapExec module to crawl Windows Shares
-- [FringeProject](https://fringeproject.com): a kind of OSINT resource tool
-- [Security-Tips](https://security-tips.vincd.com): I can't remember everything so I write commands and links that I found usefull
-- Few [Burp](https://portswigger.net/burp) extensions:
-  - [ProxyPac](https://github.com/vincd/burpproxypacextension): use a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file as an outgoing proxy
-  - [BExtension](https://github.com/vincd/BExtension): update the CSRF token while navigation a website
-
-Reach me on Twitter [@vincd8](https://twitter.com/vincd8)
 
 <p align="center" width="100%"><a href="https://github.com/vincd"><img src="./github-metrics.svg"></a></p>
